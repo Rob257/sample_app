@@ -5,6 +5,7 @@ ruby '1.9.3'
 gem 'rails',        '3.2.11'
 gem 'jquery-rails', '2.0.2'
 gem 'thin',         '1.5.0'
+gem 'bootstrap-sass', '2.2.2.0'
 
 group :development do
   gem 'foreman'       # run 'foreman start' from command line to bootstrap app server
